@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RYO-102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 <!---
 RYO-102/RYO-102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
