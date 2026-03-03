@@ -49,8 +49,8 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RYO-102&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RYO-102&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats-omega-bay-43.vercel.app/api?username=RYO-102&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats-omega-bay-43.vercel.app/api/top-langs/?username=RYO-102&layout=compact&theme=radical)  
 
 ---
 
