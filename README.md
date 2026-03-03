@@ -10,7 +10,7 @@
   - GDSC Japan Summer Hackathon 2024 **Audience Award**
 - 📜 **Certifications:**
   - 応用情報技術者 (AP) / 基本情報技術者 (FE) / 情報セキュリティマネジメント (SG)
-  - 英検2級 (Targeting TOEIC 800+)
+  - 英検2級
 - 🚀 **AtCoder:**
   - Highest Rating: **Green** (Currently preparing for a comeback!)
 
