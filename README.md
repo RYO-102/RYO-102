@@ -5,7 +5,7 @@
 現在はAIを支える数学的基盤（統計学・解析学・線形代数・最適化理論）の習得を目指しています。
 
 - 🎓 **Focus:**
-  - 情報システム / セキュリティ / AI数学
+  - 情報システム / セキュリティ / AI数学 / データサイエンス
 - 🏆 **Hackathon:**
   - GDSC Japan Summer Hackathon 2024 **Audience Award**
 - 📜 **Certifications:**
